@@ -119,6 +119,7 @@ body {
 .pic-down {
   display: flex;
   justify-content: space-around;
+  border: black 2px solid;
 }
 
 .web-text h2 {
